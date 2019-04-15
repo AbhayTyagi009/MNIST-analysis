@@ -6,5 +6,7 @@ So, I started from the basics. I wanted to analyse the MNIST dataset and the eff
 * SVM: DNF
 * Artificial Neural Network (MLP): 0.939
 * CNN: 0.9924
+* Decision Tree: 0.8768
+* Random Forest: 0.9285
 
-No surprises here.
+I was surprised by the performance of the trees and random forest algorithms.
